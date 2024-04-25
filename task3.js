@@ -4,6 +4,8 @@
 function checkIfEvenOrOdd(num){
     num % 2 === 0 ? console.log('even') : console.log('odd');
 }
+
+//Arrow Function
 const checkIfEvenOrOddArrowFunc= (num) => {
     num % 2 === 0 ? console.log('even') : console.log('odd');
 }

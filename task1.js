@@ -9,6 +9,6 @@ const squareOfNumberArrowFunction = (userNum) => {
 }
 
 
-//TestCases Output: 25 and 400
+//TestCases Output: [25, 400]
 squareOfNumber(5)
 squareOfNumberArrowFunction(20)
